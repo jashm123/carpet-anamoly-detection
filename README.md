@@ -114,6 +114,3 @@ The report's scripts use PyTorch and torchvision, NumPy, OpenCV, Pillow, scikit-
 - The report proposes improving the CAE/VAE experiments with pretrained encoders, full-resolution or multi-scale inputs, improved loss functions, regularization, augmentation, adaptive thresholding, and post-processing.
 - Future directions listed in the report include real-time industrial integration, other surfaces, transformer-based anomaly detection, and edge deployment.
 
-## Acknowledgment
-
-This project was submitted as a special assignment for **Deep Learning for Vision Systems** at the Institute of Technology, Nirma University, in November 2025.
